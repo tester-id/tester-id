@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @tester-id
-- 👀 I’m interested in programming and networking
-- 🌱 I’m currently learning fullstack web dev
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Programming and Networking
+- 🌱 I’m currently learning Fullstack Web Dev
 
 <!---
 tester-id/tester-id is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
