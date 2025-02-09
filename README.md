@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tester-id
+- 👋 Hi, I’m @elhamidi
 - 👀 I’m interested in Programming and Networking
 - 🌱 I’m currently learning Fullstack Web Dev
 
