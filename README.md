@@ -20,8 +20,8 @@
 
 ### 📊 GitHub Activity & Stats
 <p align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=tester-id&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tester-id&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=elhamidi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elhamidi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
