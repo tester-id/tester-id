@@ -13,8 +13,7 @@
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,django,php,codeigniter,laravel,fastapi,docker,postgres,git,github,firebase,supabase,aws,bash,wireshark,linux,mint,debian,ubuntu,parrot,kali" />
-  <img src="https://shields.io" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,django,php,codeigniter,laravel,fastapi,docker,postgres,git,github,firebase,supabase,aws,bash,wireshark,linux,mint,debian,ubuntu,parrotsec,kali" />
 </p>
 
 ---
