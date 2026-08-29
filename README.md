@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+YourName+%F0%9F%91%8B;Passionate+Software+Engineer;Building+cool+things+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+@elhamidi+%F0%9F%91%8B;Passionate+Software+Engineer;Building+cool+things+with+Code;Security+Enthusiast" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -7,8 +7,6 @@
 ### 👨‍💻 About Me
 - 🔭 Currently working on **[Project Name](https://github.com/GumiPengadanganBarat)**
 - 🌱 Learning **Rust & Distributed Systems**
-- 💬 Ask me about **JavaScript, React, Python, and API Design**
-- 📬 How to reach me: **your.email@example.com**
 - ⚡ Fun fact: **I code better with coffee ☕**
 
 ---
