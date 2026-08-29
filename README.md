@@ -20,8 +20,7 @@
 
 ### 📊 GitHub Activity & Stats
 <p align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=tester-id&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tester-id&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="185" src="https://metrics.lecoq.io/tester-id?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=1&base.metadata=0&config.timezone=Asia%2FJakarta" />
 </p>
 <p align="center">
   <img height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=tester-id&theme=tokyonight&hide_border=true" />
