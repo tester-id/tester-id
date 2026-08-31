@@ -4,28 +4,28 @@
 
 <br/>
 
-### 👨‍💻 About Me
+### About Me
 - 🔭 Currently working on **[GumiPengadanganBarat](https://github.com/tester-id/GumiPengadanganBarat)**
 - 🌱 Learning **Rust & Distributed Systems**
 - ⚡ Fun fact: **I code better with coffee ☕**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,django,java,kotlin,php,codeigniter,laravel,fastapi,docker,postgres,git,github,firebase,supabase,aws,bash,linux,mint,debian,ubuntu,kali" />
 </p>
 
 ---
 
-### 📊 GitHub Activity & Stats
+### GitHub Activity & Stats
 <p align="center">
   <img height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=tester-id&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🔗 Connect with Me
+### Connect with Me
 <p align="left">
   <a href="https://instagram.com/_elhamidi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
